@@ -27,7 +27,7 @@ Click [here](https://docs.microsoft.com/en-us/azure/security/develop/threat-mode
 
 ### Status
 
-The template is still under development.
+The template is still under development since not all threats and countermeasure have been included
 
 ### Acknowledgment
 
