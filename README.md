@@ -25,6 +25,10 @@ To use our template and start modeling a CPS system, follow the steps reported b
 
 Click [here](https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-getting-started) to get started with the Threat Modeling Tool.
 
+### Status
+
+The template is still under development.
+
 ### Acknowledgment
 
 We would like to thank the following creators for the icon used in our template:
